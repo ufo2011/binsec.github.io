@@ -11,8 +11,8 @@
           ranking: A*
           artefact: https://zenodo.org/records/19337349
           easy-summary: nutshells/ase-26.html
-          pdf: /assets/publications/papers/2026-icse.pdf
-          bibtex: /assets/publications/bibtexs/2026-icse.bib
+          pdf: /assets/publications/papers/2026-ase.pdf
+          bibtex: /assets/publications/bibtexs/2026-ase.bib
           # TODO[Dimitri]: add slides when available
           #talk-slides: /assets/publications/slides/2026-ase.pdf
           artifact-available: true
